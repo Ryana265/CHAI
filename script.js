@@ -39,7 +39,7 @@ var tl = gsap.timeline({
 // tl2.from("#elachi",{
 //     rotate: "90deg",
 //     top: "110%",
-//     right:"90%"
+//     right:"90%
 //  }, 'ca')
 
 tl2.to("#mainpic",{
