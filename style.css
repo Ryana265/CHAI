@@ -210,18 +210,21 @@ nav a,i{
     display: flex;
     margin-left: 30%;
 }
-#kashmiri{
+#kashmiri {
     position: absolute;
-    top: 15%;
-    transition: all cubic-bezier(0.19, 1, 0.22, 1)0.5s;
-    left: 1%;
+    top: 13%; /* Adjust this value to make it visible on initial load */
+    left: 4%; /* Adjust as needed */
+    /* transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.5s; */
 }
-#elachi{
+
+#elachi {
     position: absolute;
-    top: 5%;
-    left: 14%;
+    top: 4%; /* Adjust this value to make it visible on initial load */
+    left: 57%; /* Adjust as needed */
     height: 530px;
-    transition: all cubic-bezier(0.19, 1, 0.22, 1)0.5s;
+    /* transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.5s; */
 }
+
+
 
 

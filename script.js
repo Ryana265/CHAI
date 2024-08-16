@@ -26,21 +26,21 @@ var tl = gsap.timeline({
   
   var tl2 = gsap.timeline({scrollTrigger:{
     trigger: ".three",
-    start: "03% 95%",
+    start: "10% 95%",
     end: "20% 50%",
     scrub: true,
     // markers: true,
 }})
-tl2.from("#kashmiri",{
-    rotate: "-90deg",
-    top: "110%",
-    left: "-50%",
-}, 'ca')
-tl2.from("#elachi",{
-    rotate: "90deg",
-    top: "110%",
-    left: "130%",
-}, 'ca')
+// tl2.from("#kashmiri",{
+//     rotate: "-90deg",
+//     top: "110%",
+//     right:"90%"
+// }, 'ca')
+// tl2.from("#elachi",{
+//     rotate: "90deg",
+//     top: "110%",
+//     right:"90%"
+//  }, 'ca')
 
 tl2.to("#mainpic",{
     // width:"35%",
