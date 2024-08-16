@@ -219,7 +219,9 @@ nav a,i{
 #elachi{
     position: absolute;
     top: 5%;
-    left: 13%;
+    left: 14%;
     height: 530px;
     transition: all cubic-bezier(0.19, 1, 0.22, 1)0.5s;
 }
+
+

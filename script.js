@@ -39,10 +39,11 @@ tl2.from("#kashmiri",{
 tl2.from("#elachi",{
     rotate: "90deg",
     top: "110%",
-    left: "60%",
+    left: "130%",
 }, 'ca')
+
 tl2.to("#mainpic",{
-    width:"35%",
-    top: "270%",
+    // width:"35%",
+    top: "260%",
     left: "30%",
-}, 'ca')
+}, 0)
