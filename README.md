@@ -19,3 +19,6 @@ Chai is a website project designed to explore and implement GSAP (GreenSock Anim
 - Gain a basic understanding of GSAP.
 - Implement ScrollTrigger for scroll-based animations.
 - Enhance HTML, CSS, and JavaScript skills.
+
+## Hosted Link
+You can view the live website here: https://manishmalhotraportfolio.netlify.app/
