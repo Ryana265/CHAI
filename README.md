@@ -1,7 +1,7 @@
 ## Chai - A Website to Study GSAP and ScrollTrigger
 
 ### Description:
-Chai is a website project designed to explore and implement GSAP (GreenSock Animation Platform) and ScrollTrigger for creating interactive and smooth scroll-based animations. The project uses HTML, CSS, JavaScript, and GSAP to build a modern, responsive, and engaging user experience.
+Chai is a website project designed to explore and implement GSAP (GreenSock Animation Platform) and ScrollTrigger for creating interactive and smooth scroll-based animations. The project uses HTML, CSS, JavaScript, and GSAP to build a modern, responsive, and engaging user experience. The focus is on mastering GSAP to enhance user engagement through smooth and dynamic visual effects.
 
 ## Tech Stack:
 - HTML: Markup language for structuring content.
