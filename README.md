@@ -21,4 +21,4 @@ Chai is a website project designed to explore and implement GSAP (GreenSock Anim
 - Enhance HTML, CSS, and JavaScript skills.
 
 ## Hosted Link
-You can view the live website here: https:[//manishmalhotraportfolio.netlify.app/](https://chaai.netlify.app/)
+You can view the live website here: https:(https://chaai.netlify.app/)
